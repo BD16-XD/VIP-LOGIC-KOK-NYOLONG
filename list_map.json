@@ -632,7 +632,7 @@
         },
         {
             "name": "test",
-            "url": "https://github.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/blob/main/mount_neovaria.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_neovaria.json",
             "locked": false
         }
     ]
