@@ -659,6 +659,11 @@
             "name": "MT Dominator",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_dominator.json",
             "locked": false
+        },
+        {
+            "name": "MT Erlia",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_erlia.json",
+            "locked": false
         }
     ]
 }
