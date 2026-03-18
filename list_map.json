@@ -644,6 +644,11 @@
             "name": "MT Alfira",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_alfira.json",
             "locked": false
+        },
+        {
+            "name": "MT Victorace Habeg",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/victorace_habeg.json",
+            "locked": false
         }
     ]
 }
