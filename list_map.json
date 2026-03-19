@@ -679,6 +679,11 @@
             "name": "MT Haku",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_haku.json",
             "locked": false
+        },
+        {
+            "name": "MT Seraphim Habeg",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_seraphim_habeg.json",
+            "locked": false
         }
     ]
 }
