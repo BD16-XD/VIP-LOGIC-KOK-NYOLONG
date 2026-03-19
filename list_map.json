@@ -674,6 +674,11 @@
             "name": "MT Voltra Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_voltra_habeg.json",
             "locked": false
+        },
+        {
+            "name": "MT Haku",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_haku.json",
+            "locked": false
         }
     ]
 }
