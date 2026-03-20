@@ -689,6 +689,11 @@
             "name": "MT Ausora",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_ausora.json",
             "locked": false
+        },
+        {
+            "name": "MT Wek Obstacle",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/wek_obstacle.json",
+            "locked": false
         }
     ]
 }
