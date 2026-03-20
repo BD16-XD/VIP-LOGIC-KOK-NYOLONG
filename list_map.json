@@ -466,11 +466,6 @@
             "locked": false
         },
         {
-            "name": "MT User 001",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_maltheria_v2.json",
-            "locked": false
-        },
-        {
             "name": "MT Sakti",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_sakti.json",
             "locked": false
