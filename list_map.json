@@ -694,6 +694,11 @@
             "name": "MT Wek Obstacle",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/wek_obstacle.json",
             "locked": false
+        },
+        {
+            "name": "MT Seraphim x150",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_seraphim_x150.json",
+            "locked": false
         }
     ]
 }
