@@ -531,11 +531,6 @@
             "locked": false
         },
         {
-            "name": "PPK",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/ppk.json",
-            "locked": false
-        },
-        {
             "name": "MT Muna",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_muna.json",
             "locked": false
