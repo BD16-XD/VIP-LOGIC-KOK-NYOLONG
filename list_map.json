@@ -508,7 +508,7 @@
         {
             "name": "MT Yahayuk V3 (Cvip)",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_yahayuk_cvip.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Goyaa",
