@@ -719,6 +719,11 @@
             "name": "MT Afterra",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/afterra_new.json",
             "locked": false
+        },
+        {
+            "name": "MT Aveolus V2",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/aveoulus.json",
+            "locked": false
         }
     ]
 }
