@@ -368,7 +368,7 @@
         {
             "name": "MT Velorace Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/veloranew.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Vexyria (Extreme)",
