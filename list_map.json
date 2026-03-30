@@ -744,6 +744,11 @@
             "name": "MT Veloria",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/veloria.json",
             "locked": false
+        },
+        {
+            "name": "map ppk",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/checkpoint_merged.json",
+            "locked": false
         }
     ]
 }
