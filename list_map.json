@@ -779,6 +779,11 @@
             "name": "MT Galatic",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/galatic.json",
             "locked": false
+        },
+        {
+            "name": "MT Astral",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/atral.json",
+            "locked": false
         }
     ]
 }
