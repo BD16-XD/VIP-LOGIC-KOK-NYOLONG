@@ -774,6 +774,11 @@
             "name": "MT Histeria",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/histeria.json",
             "locked": false
+        },
+        {
+            "name": "MT Galatic",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/galatic.json",
+            "locked": false
         }
     ]
 }
