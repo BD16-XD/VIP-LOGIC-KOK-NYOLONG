@@ -467,8 +467,8 @@
         },
         {
             "name": "MT Sawit",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_sawit.json",
-            "locked": true
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/sawitt.json",
+            "locked": false
         },
         {
             "name": "MT Yayakin V1",
