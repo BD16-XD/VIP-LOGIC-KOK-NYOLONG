@@ -804,6 +804,11 @@
             "name": "MT Dominion",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/dominion.json",
             "locked": false
+        },
+        {
+            "name": "MT Aveleon",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/aveleon.json",
+            "locked": false
         }
     ]
 }
