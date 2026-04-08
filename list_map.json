@@ -799,6 +799,11 @@
             "name": "MT Dranix Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/dranixnaga.json",
             "locked": false
+        },
+        {
+            "name": "MT Dominion",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/dominion.json",
+            "locked": false
         }
     ]
 }
