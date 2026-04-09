@@ -268,7 +268,7 @@
         {
             "name": "MT Noxera",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_noxera_normal.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Ojeg",
@@ -467,7 +467,7 @@
         },
         {
             "name": "MT Sawit",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/sawitt.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_sawit.json",
             "locked": false
         },
         {
