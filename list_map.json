@@ -358,7 +358,7 @@
         {
             "name": "MT Unyu",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_unyu.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Vegas",
