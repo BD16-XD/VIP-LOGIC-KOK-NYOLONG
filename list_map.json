@@ -707,8 +707,8 @@
         },
         {
             "name": "MT Agana",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_agana.json",
-            "locked": true
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/agana_habeg.json",
+            "locked": false
         },
         {
             "name": "MT Afterra",
