@@ -698,7 +698,7 @@
         {
             "name": "MT Kyoukai Obstacle",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/kyoukai_obstacle.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Eternity",
@@ -808,7 +808,7 @@
         {
             "name": "MT Enyong",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/enyong.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Veloria",
