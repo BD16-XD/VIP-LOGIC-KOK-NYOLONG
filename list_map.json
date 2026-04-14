@@ -839,6 +839,11 @@
             "name": "MT Victoria Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_victoria_habeg.json",
             "locked": false
+        },
+        {
+            "name": "MT Draxora",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/draxora_normal.json",
+            "locked": false
         }
     ]
 }
