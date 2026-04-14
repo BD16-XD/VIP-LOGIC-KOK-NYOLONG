@@ -844,6 +844,11 @@
             "name": "MT Draxora",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/draxora_normal.json",
             "locked": false
+        },
+        {
+            "name": "MT AMSP Obstacle",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/amsp_obstacle.json",
+            "locked": false
         }
     ]
 }
