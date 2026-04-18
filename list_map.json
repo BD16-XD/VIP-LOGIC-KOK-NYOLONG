@@ -368,7 +368,7 @@
         {
             "name": "MT Velorace Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/veloranew.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Vexyria (Extreme)",
@@ -608,7 +608,7 @@
         {
             "name": "MT Neoveria",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/neovaria_new.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Yahayuk V3 (WASD)",
@@ -848,7 +848,7 @@
         {
             "name": "MT AMSP Obstacle",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/amsp_obstacle_edited.json",
-            "locked": false
+            "locked": true
         }
     ]
 }
