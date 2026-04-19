@@ -498,7 +498,7 @@
         {
             "name": "MT Yahayuk V3 (Cvip)",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_yahayuk_cvip.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Goyaa",
@@ -607,7 +607,7 @@
         },
         {
             "name": "MT Yahayuk V3 (WASD)",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/yahayuk_wasd.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/yahayuk_wasdnew.json",
             "locked": false
         },
         {
