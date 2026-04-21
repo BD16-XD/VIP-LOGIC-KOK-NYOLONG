@@ -703,7 +703,7 @@
         {
             "name": "MT Agana",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/agana_new.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Afterra",
