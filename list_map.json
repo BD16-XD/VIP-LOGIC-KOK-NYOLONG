@@ -839,6 +839,11 @@
             "name": "MT AMSP Obstacle",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/amsp_new.json",
             "locked": false
+        },
+        {
+            "name": "MT Andalan",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/obstacle_andalan.json",
+            "locked": false
         }
     ]
 }
