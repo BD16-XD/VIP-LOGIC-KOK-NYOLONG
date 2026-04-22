@@ -844,6 +844,11 @@
             "name": "MT Andalan",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/obstacle_andalan.json",
             "locked": false
+        },
+        {
+            "name": "MT Tayong",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_tayonk.json",
+            "locked": false
         }
     ]
 }
