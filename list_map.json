@@ -849,6 +849,11 @@
             "name": "MT Tayonk",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_tayonk.json",
             "locked": false
+        },
+        {
+            "name": "MT Yellow",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_yellow.json",
+            "locked": false
         }
     ]
 }
