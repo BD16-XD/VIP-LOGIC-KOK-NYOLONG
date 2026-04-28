@@ -859,6 +859,11 @@
             "name": "MT Noxera Ultra",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/noxera_ucoil.json",
             "locked": false
+        },
+        {
+            "name": "MT Miracle",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/miracle_normalvip.json",
+            "locked": false
         }
     ]
 }
