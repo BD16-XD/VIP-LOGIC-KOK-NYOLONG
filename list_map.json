@@ -232,7 +232,7 @@
         },
         {
             "name": "MT Moonlight V2",
-            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/moonlightnew.json",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/moonlight.json",
             "locked": false
         },
         {
@@ -363,7 +363,7 @@
         {
             "name": "MT Velora Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/velovip.json",
-            "locked": true
+            "locked": false
         },
         {
             "name": "MT Vexyria (Extreme)",
