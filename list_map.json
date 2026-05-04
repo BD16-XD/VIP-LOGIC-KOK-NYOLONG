@@ -879,6 +879,11 @@
             "name": "MT Cerry",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Mtcerry.json",
             "locked": false
+        },
+        {
+            "name": "MT Xsell",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/xsellobstaclehabeg.json",
+            "locked": false
         }
     ]
 }
