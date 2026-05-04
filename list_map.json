@@ -874,6 +874,11 @@
             "name": "MT Ragnar",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_ragnarnew.json",
             "locked": false
+        },
+        {
+            "name": "MT Cerry",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Mtcerry.json",
+            "locked": false
         }
     ]
 }
