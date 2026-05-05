@@ -263,7 +263,7 @@
         {
             "name": "MT Noxera",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/noxera_normal.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Ojeg",
@@ -818,7 +818,7 @@
         {
             "name": "MT Noxera Habeg",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mount_noxera_habeg_edited.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Lestera",
@@ -858,7 +858,7 @@
         {
             "name": "MT Noxera Ultra",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/noxera_ucoil.json",
-            "locked": false
+            "locked": true
         },
         {
             "name": "MT Miracle",
