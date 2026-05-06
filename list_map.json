@@ -889,6 +889,11 @@
             "name": "MT Cavelas",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/cavelas.json",
             "locked": false
+        },
+        {
+            "name": "MT Eldest",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Eldest_obstacle_habeg.json",
+            "locked": false
         }
     ]
 }
