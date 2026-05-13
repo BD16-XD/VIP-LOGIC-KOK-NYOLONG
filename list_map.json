@@ -894,6 +894,11 @@
             "name": "MT Vagora",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/Mt_vagora_habeg.json",
             "locked": false
+        },
+        {
+            "name": "MT Trisxity",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/mtrisxity.json",
+            "locked": false
         }
     ]
 }
