@@ -889,6 +889,11 @@
             "name": "MT Trisxity",
             "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/newtrisxity.json",
             "locked": false
+        },
+        {
+            "name": "MT Lunex",
+            "url": "https://raw.githubusercontent.com/BD16-XD/VIP-LOGIC-KOK-NYOLONG/refs/heads/main/lunex.json",
+            "locked": false
         }
     ]
 }
